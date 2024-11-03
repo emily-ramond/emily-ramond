@@ -3,12 +3,12 @@
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me: emily.ramond01@gmail.com
 - 🌱 I’m currently mentoring senior students at the University of California, San Diego through their Capstone. Want to see research projects completed for (2023-2024)?
-             - Diversifying the Global Music Industry through Debiasing Recommender Systems (https://github.com/jebrus/DSC-180B-Final-Project)
-             Natalie Wu, Shivani Suthar, Samantha Horio, and Joshua Brusewitz (Mentor: Emily Ramond from Deloitte)
-             - BAGS - Bias Aware GridsearchCV (https://github.com/474benchen/bias_aware_gridsearchCV)
-             Anika Garg, Jayson Leach, Stephanie Chavez, and Benjamin Chen (Mentor: Emily Ramond from Deloitte)
-             - Mitigating Director Gender Bias in Movie Recommender Systems (https://github.com/michael-garciaperez/DSC180B-Capstone-Project)
-             Michael Garcia-Perez and Christine Deng (Mentor: Emily Ramond from Deloitte)
+             &nbsp;- Diversifying the Global Music Industry through Debiasing Recommender Systems (https://github.com/jebrus/DSC-180B-Final-Project)
+             &nbsp;Natalie Wu, Shivani Suthar, Samantha Horio, and Joshua Brusewitz (Mentor: Emily Ramond from Deloitte)
+             &nbsp;- BAGS - Bias Aware GridsearchCV (https://github.com/474benchen/bias_aware_gridsearchCV)
+             &nbsp;Anika Garg, Jayson Leach, Stephanie Chavez, and Benjamin Chen (Mentor: Emily Ramond from Deloitte)
+             &nbsp;- Mitigating Director Gender Bias in Movie Recommender Systems (https://github.com/michael-garciaperez/DSC180B-Capstone-Project)
+             &nbsp;Michael Garcia-Perez and Christine Deng (Mentor: Emily Ramond from Deloitte)
   
 
 <!---
